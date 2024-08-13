@@ -7,3 +7,7 @@ GSWP3 control & ensemble runs: /glade/campaign/univ/upur0019/I2000Clm50BgcCrop_s
 ```
 CFSR control & ensemble runs: /glade/campaign/univ/upur0019/I2000Clm50BgcCrop_sm/cfsr_ensembles
 ```
+
+```
+Data download link: https://auburn.box.com/s/elnums5egl8xc49c7buvfrpckx1449dh
+```
